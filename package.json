@@ -1,0 +1,19 @@
+{
+  "name": "psykedelia-ircbot",
+  "version": "0.0.1",
+  "description": "small irc bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sami Keinänen <skopetus@gmail.com>",
+  "license": "WTFPL",
+  "dependencies": {
+    "request": "^2.36.0",
+    "cheerio": "^0.17.0",
+    "irc": "^0.3.7"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1"
+  }
+}
